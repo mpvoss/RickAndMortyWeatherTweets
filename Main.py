@@ -84,3 +84,8 @@ for city in cities:
         r = twitterAPI.request('statuses/update', {'status': 'Uuuuuurrrpppp! Rick and Morty Weather update for ' + city,
                                                    'media_ids': media_id})
         print('UPDATE STATUS SUCCESS' if r.status_code == 200 else 'UPDATE STATUS FAILURE')
+
+
+
+
+
