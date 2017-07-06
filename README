@@ -1,3 +1,10 @@
+Twitter weather updates...via Rick and Morty memes!
+
+![alt text](https://raw.githubusercontent.com/mpvoss/RickAndMortyWeatherTweets/master/examples/notCool.png)
+![alt text](https://raw.githubusercontent.com/mpvoss/RickAndMortyWeatherTweets/master/examples/sun.png)
+![alt text](https://raw.githubusercontent.com/mpvoss/RickAndMortyWeatherTweets/master/examples/thorn.png)
+
+
 This project uses
 -danieldiekmeier's memegenerator: https://github.com/danieldiekmeier/memegenerator
 -OpenWeatherMap: weather data
@@ -6,3 +13,5 @@ This project uses
 -geduldig's TwitterAPI wrapper: https://github.com/geduldig/TwitterAPI
 
 Thank you to all these projects for their hard work so I could make a dumb RickAndMorty Weather Memebot
+
+![alt text](https://raw.githubusercontent.com/mpvoss/RickAndMortyWeatherTweets/master/examples/notCool.png)

@@ -48,7 +48,7 @@ def make_meme(topString, bottomString, filename):
 	draw.text(topTextPosition, topString, (255,255,255), font=font)
 	draw.text(bottomTextPosition, bottomString, (255,255,255), font=font)
 
-	filename = "test/" +str(datetime.datetime.now()).replace(' ','_') + ".png"
+	filename = "output/" +str(datetime.datetime.now()).replace(' ','_') + ".png"
 	img.save(filename)
 	return filename
 

@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/WeatherToMemeUtil.py" line="51" />
+    <bookmark url="file://$PROJECT_DIR$/WeatherToMemeUtil.py" line="53" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="985ae6aa-ef67-447f-a291-0a6663f6c807" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/Fart.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/alien.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/assimilate.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/butter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/can_do.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/drunk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/getting_weird.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/head_boo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ice_t.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/is_that_a_lot.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/killing.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/nogod.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/oh-geez-rick.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/one_true_morty.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/pizza.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/praying.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/rap.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/riggity.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/snuffles.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/snufflesWants.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/understood.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/want_to_die.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/where_are_my_testicles.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/wowee.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/celsius.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/goldenfold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/notCool.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/snuffles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/sun.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/thorn.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_08:31:44.680729.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_08:31:55.311590.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_08:32:07.639208.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_08:32:17.196603.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_08:42:13.980991.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_08:42:35.906765.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_08:42:40.341360.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_08:42:44.450614.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_08:42:48.201319.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_08:42:52.012549.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_08:45:27.693895.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_08:45:32.635154.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_08:45:36.474041.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_08:45:43.021518.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_08:45:46.821481.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_08:57:34.533012.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/2017-06-23_09:00:43.008738.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/&lt;built-in method getrandbits of Random object at 0x1a813c8&gt;.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main.py" afterPath="$PROJECT_DIR$/Main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README" afterPath="$PROJECT_DIR$/README" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WeatherToMemeUtil.py" afterPath="$PROJECT_DIR$/WeatherToMemeUtil.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/memegenerator/memegenerator.py" afterPath="$PROJECT_DIR$/memegenerator/memegenerator.py" />
     </list>
@@ -51,9 +51,11 @@
       <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="39" />
-              <folding />
+            <state relative-caret-position="-295">
+              <caret line="46" column="22" lean-forward="false" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -80,21 +82,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="59" lean-forward="false" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+            <state relative-caret-position="306">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WeatherToMemeUtil.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WeatherToMemeUtil.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WeatherToMemeUtil.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="51" column="17" lean-forward="false" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+            <state relative-caret-position="864">
+              <caret line="120" column="29" lean-forward="false" selection-start-line="120" selection-start-column="29" selection-end-line="120" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -103,8 +105,8 @@
       <file leaf-file-name="memegenerator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/memegenerator/memegenerator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="-72">
+              <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -135,9 +137,14 @@
       <find>schwi</find>
       <find>sun</find>
       <find>wow</find>
-      <find>impac</find>
       <find>where</find>
+      <find>impac</find>
+      <find>was my</find>
+      <find>'{} Degrees F in {}?'.format(tempF,city)</find>
     </findStrings>
+    <replaceStrings>
+      <replace>buildBasicLine(tempF, 'F', city)</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -146,23 +153,26 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/memegenerator.py" />
-        <option value="$PROJECT_DIR$/README" />
         <option value="$PROJECT_DIR$/WeatherAnalyzer.py" />
         <option value="$PROJECT_DIR$/api_keys/openWeatherMap" />
         <option value="$PROJECT_DIR$/api_keys/twitter" />
         <option value="$PROJECT_DIR$/config/api_keys" />
-        <option value="$PROJECT_DIR$/Main.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/memegenerator/memegenerator.py" />
         <option value="$PROJECT_DIR$/WeatherToMemeUtil.py" />
+        <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/README" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1985" />
-    <option name="y" value="24" />
+    <option name="x" value="2034" />
+    <option name="y" value="129" />
     <option name="width" value="1855" />
-    <option name="height" value="1056" />
+    <option name="height" value="1023" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -215,6 +225,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PyDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -252,13 +276,16 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examples" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/memegenerator" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.With Config">
     <configuration default="false" name="With Config" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -451,8 +478,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.With Config" />
+        <item index="0" class="java.lang.String" itemvalue="Python.With Config" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -470,7 +497,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1985" y="24" width="1855" height="1056" extended-state="6" />
+    <frame x="2034" y="129" width="1855" height="1023" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15471698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -479,7 +506,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31600407" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32700422" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -500,7 +527,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Main.py</url>
-          <line>60</line>
+          <line>58</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -531,14 +558,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/memegenerator/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -585,7 +604,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -658,7 +679,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="44" column="30" lean-forward="false" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
-          <folding />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -699,7 +722,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="44" column="30" lean-forward="false" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
-          <folding />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -740,7 +765,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="44" column="30" lean-forward="false" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
-          <folding />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -781,7 +808,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
           <caret line="44" column="30" lean-forward="false" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
-          <folding />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -841,14 +870,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="59" lean-forward="false" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/api_keys">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -870,24 +891,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/env/lib/python3.5/site-packages/PIL/ImageFont.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
@@ -898,16 +901,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/memegenerator/memegenerator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="-72">
+          <caret line="35" column="44" lean-forward="true" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-295">
+          <caret line="46" column="22" lean-forward="false" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WeatherToMemeUtil.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="51" column="17" lean-forward="false" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+        <state relative-caret-position="864">
+          <caret line="120" column="29" lean-forward="false" selection-start-line="120" selection-start-column="29" selection-end-line="120" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/snuffles.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>

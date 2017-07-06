@@ -43,11 +43,10 @@ owm = pyowm.OWM(weatherAPI)
 # Read List of Cities
 # ------------------------------------------------------
 cities = []
-with open('canada.csv', 'r') as f:
-    counter = 0
+usedImages = []
+with open('data/canada.csv', 'r') as f:
     for x in f:
         # x = x.encode('utf-8').strip()
-        counter += 1
         x = x.rstrip()
         parts = x.split(",")
         cities.append(parts[0].strip() + ", " + parts[1])
@@ -56,9 +55,9 @@ with open('canada.csv', 'r') as f:
 # Main loop
 # ------------------------------------------------------
 for city in cities:
-    # time.sleep(1)
+    time.sleep(1)
     city = random.choice(cities)
-    observation = owm.weather_at_place("Dease Lake, BC")
+    observation = owm.weather_at_place(city)
     w = observation.get_weather()
     status = w._status
     tempF = w.get_temperature('fahrenheit')['temp']
@@ -66,9 +65,11 @@ for city in cities:
     print(city + " " + status + " " + str(tempF))
     meme_tuple = WeatherToMemeUtil.get_strings(status, tempF, tempC, city)
 
-    if meme_tuple is None:
+    if meme_tuple is None or meme_tuple[2] in usedImages:
+        print('Skipping {} because we\'ve already seen it'.format(city))
         continue
 
+    usedImages.append(meme_tuple[2])
     print(meme_tuple)
 
     filename = memegenerator.make_meme(meme_tuple[0], meme_tuple[1], 'img/' + meme_tuple[2])

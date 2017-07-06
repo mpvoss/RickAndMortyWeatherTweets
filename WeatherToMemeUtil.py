@@ -1,44 +1,46 @@
 import random
 
+def buildBasicLine(temp,unit,city):
+    return '{} °{} in {}?'.format(temp, unit, city)
+
 def get_hot_tuples(tempC, tempF, city):
     result = []
-    result.append(('{} Degrees F in {}?'.format(tempF, city), 'BOOOOO! NOT COOL!', 'head_boo.png'))
-    result.append(('{} Degrees F in {}?'.format(tempF, city), 'Woweeeeeee! Sure is getting toasty!', 'wowee.jpg'))
-    result.append(('{} Degrees F in {} again?'.format(tempF, city),'Thanks a lot, SUMMER','thanks_summer.jpg'))
-    result.append(('{} Degrees F in {} again?'.format(tempF, city),'It\'s time to get schweaty in here','schwifty.png'))
-    result.append(('{} Degrees F in {}?'.format(tempF, city),'So how familiar are you with non-brimstone climates, exactly?','gearhead.jpg'))
-    result.append(('{} Degrees F in {}?'.format(tempF, city), 'KEEP SUMMER SAFE','summer_safe.jpg'))
-    result.append(('{} Degrees F in {}?  Alright sun....'.format(tempF, city), 'You\'re growing into a real big thorn right up into my ass', 'thorn.jpg'))
-    result.append(('{} Degrees F in {}?'.format(tempF, city), 'Just send me to Canada. I want to be with the cold.', 'garry.png'))
+    result.append((buildBasicLine(tempF, 'F', city), 'BOOOOO! NOT COOL!', 'head_boo.png'))
+    result.append((buildBasicLine(tempF, 'F', city), 'Woweeeeeee! Sure is getting toasty!', 'wowee.jpg'))
+    result.append((buildBasicLine(tempF, 'F', city),'Thanks a lot, SUMMER','thanks_summer.jpg'))
+    result.append((buildBasicLine(tempF, 'F', city),'It\'s time to get schweaty in here','schwifty.png'))
+    result.append((buildBasicLine(tempF, 'F', city),'So how familiar are you with non-brimstone climates, exactly?','gearhead.jpg'))
+    result.append((buildBasicLine(tempF, 'F', city), 'KEEP SUMMER SAFE','summer_safe.jpg'))
+    result.append(('{} °F in {}?  Alright sun....'.format(tempF, city), 'You\'re growing into a real big thorn right up into my ass', 'thorn.jpg'))
+    result.append((buildBasicLine(tempF, 'F', city), 'Just send me to Canada. I want to be with the cold.', 'garry.png'))
     result.append(('Pleasantly cool outdoor weather?', 'Oh we\'re well past that {}'.format(city), 'past_that.png'))
-    result.append(('{} Degrees F in {}?'.format(tempF, city), 'I don\'t get nice weather and I don\'t need to', 'dont_need_to.jpg'))
-    result.append(('{} Degrees F in {}?'.format(tempF, city), 'That just sounds like normal weather, but with extra sweat', 'slavery.jpg'))
-    result.append(('{} Degrees F in {}?'.format(tempF, city), 'My body is dying in a vat under the sun', 'tiny_rick_sings.jpg'))
-    result.append(('{} Degrees F in {} again?'.format(tempF,city),'In bird culture this is considered a dick move','birdperson.jpg'))
-    result.append(('{} Degrees F in {} again?'.format(tempF,city),'I JUST WANNA DIE!','want_to_die.jpg'))
-    result.append(('{} Degrees F in {}?'.format(tempF,city), 'Oh jeez Rick...','oh-geez-rick.jpg'))
+    result.append((buildBasicLine(tempF, 'F', city), 'I don\'t get nice weather and I don\'t need to', 'dont_need_to.jpg'))
+    result.append((buildBasicLine(tempF, 'F', city), 'That just sounds like normal weather, but with extra sweat', 'slavery.jpg'))
+    result.append((buildBasicLine(tempF, 'F', city), 'My body is dying in a vat under the sun', 'tiny_rick_sings.jpg'))
+    result.append((buildBasicLine(tempF, 'F', city),'In bird culture this is considered a dick move','birdperson.jpg'))
+    result.append((buildBasicLine(tempF, 'F', city),'I JUST WANNA DIE!','want_to_die.jpg'))
+    result.append((buildBasicLine(tempF, 'F', city), 'Oh jeez Rick...','oh-geez-rick.jpg'))
+    result.append(('When you thought it would be nice today but it\'s {} °F in {}'.format(tempF, city), '', 'sun.jpg'))
+    result.append(('When you want to go outside but it\'s {} °F in {}'.format(tempF, city), '', 'jerry.png'))
     return result
 
 
 def get_nice_weather_tuples(tempC, tempF, city):
     result = []
-    result.append(('{} Degrees F in {}?'.format(tempF, city), 'I LIKE WHAT YOU GOT','goodjob.png'))
-    result.append(('{} Degrees F and nice outside in {}?'.format(tempF, city), 'Five more minutes of this and I\'m gonna get mad','gonna_get_mad.png'))
-    result.append(('When you want to go outside but it\'s {} Degrees F in {}'.format(tempF, city),'','jerry.png'))
-    result.append(('When you thought it would be nice today but it\'s {} Degrees F in {}'.format(tempF, city),'','sun.jpg'))
-    result.append(('When you want to go outside but it\'s {} Degrees F in {}'.format(tempF, city),'','go_outside.jpg'))
-    result.append(('{} Degrees C in {}?'.format(tempC,city), 'I-I-I don\'t even know is that a lot? Is that a little?', 'is_that_a_lot.jpg'))
-    result.append(('{} Degrees F in {}'.format(tempF,city),'And that\'s the way the news goes'.format(tempF,city),'news_goes.jpg'))
-    result.append(('{} Degrees F in {}?'.format(tempF,city), 'YES','yes.png'))
+    result.append((buildBasicLine(tempF, 'F', city), 'I LIKE WHAT YOU GOT','goodjob.png'))
+    result.append(('{} °F and nice outside in {}?'.format(tempF, city), 'Five more minutes of this and I\'m gonna get mad','gonna_get_mad.png'))
+    result.append((buildBasicLine(tempC,'C',city), 'I-I-I don\'t even know is that a lot? Is that a little?', 'is_that_a_lot.jpg'))
+    result.append((buildBasicLine(tempF,'F',city),'And that\'s the way the news goes'.format(tempF,city),'news_goes.jpg'))
+    result.append((buildBasicLine(tempF, 'F', city), 'YES','yes.png'))
 
     return result
 
 
 def get_cold_weather_tuples(tempC, tempF, city):
     result = []
-    result.append(('{} Degrees F in {}?'.format(tempF,city), 'Woweeeeeee! Sure is getting chilly!', 'wowee.jpg'))
-    result.append(('{} Degrees F in {}?'.format(tempF,city), 'I\'m not Looking for judgement, just a yes or a no. Am I ever going to see the sun again?','assimilate.jpg'))
-    result.append(('{} Degrees F in {}?'.format(tempF, city),'Isn\'t it obvious Morty? I froze them','frozethem.jpg'))
+    result.append((buildBasicLine(tempF, 'F', city), 'Woweeeeeee! Sure is getting chilly!', 'wowee.jpg'))
+    result.append((buildBasicLine(tempF, 'F', city), 'I\'m not Looking for judgement, just a yes or a no. Am I ever going to see the sun again?','assimilate.jpg'))
+    result.append((buildBasicLine(tempF, 'F', city),'Isn\'t it obvious Morty? I froze them','frozethem.jpg'))
     return result
 
 
@@ -46,8 +48,8 @@ def get_clear_weather_tuples(tempC, tempF, city):
     result = []
     result.append(('Clear skies in {} today!'.format(city), 'LOOKING GOOD', 'looking_good.jpg'))
     result.append(('Not raining in {} today!'.format(city), 'Don\'t even drip, dawg', 'dawg.jpg'))
-    result.append(('{} Degrees F and clear skies in {}?'.format(tempF, city), 'Ooooooohhhhhh can doo!', 'can_do.jpg'))
-    result.append(('{} Degrees F and clear skies in {}?'.format(tempF, city), 'Nice Miss Pancakes, real nice!', 'pancakes.jpg'))
+    result.append(('{} °F and clear skies in {}?'.format(tempF, city), 'Ooooooohhhhhh can doo!', 'can_do.jpg'))
+    result.append(('{} °F and clear skies in {}?'.format(tempF, city), 'Nice Miss Pancakes, real nice!', 'pancakes.jpg'))
 
     return result
 
@@ -77,7 +79,7 @@ def get_rain_tuples(tempC, tempF, city):
     result.append(('It doesn\'t usually rain for this long in {}.'.format(city), '', 'getting_weird.jpg'))
     result.append(('Now look {} is going to be dealing with some real serious stuff today.'.format(city),'You might have heard of it it\'s called RAIN','math.png'))
     result.append(('Would you like to ride the rain train, {}?'.format(city),'','rain_train.jpg'))
-    result.append(('What is my purpose in life? nYou\'re from {}, you sit in the rain.'.format(city),'Oh my God','butter.png'))
+    result.append(('What is my purpose in life? You\'re from {}, you sit in the rain.'.format(city),'Oh my God','butter.png'))
 
     return result
 
@@ -108,7 +110,7 @@ def get_strings(status, tempF, tempC, city):
 
     if tempF < 40:
         options.extend(get_cold_weather_tuples(tempC,tempF,city))
-    elif tempF < 75:
+    elif tempF < 80:
         options.extend(get_nice_weather_tuples(tempC, tempF,city))
     else:
         options.extend(get_hot_tuples(tempC,tempF,city))
