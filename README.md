@@ -1,8 +1,8 @@
 Twitter weather updates...via Rick and Morty memes!
 
-[[https://raw.githubusercontent.com/mpvoss/RickAndMortyWeatherTweets/master/examples/notCool.png]]
-[[https://raw.githubusercontent.com/mpvoss/RickAndMortyWeatherTweets/master/examples/sun.png]]
-[[https://raw.githubusercontent.com/mpvoss/RickAndMortyWeatherTweets/master/examples/thorn.png]]
+[[https://raw.githubusercontent.com/mpvoss/RickAndMortyWeatherTweets/master/examples/notCool.png|alt=notcool]]
+[[https://raw.githubusercontent.com/mpvoss/RickAndMortyWeatherTweets/master/examples/sun.png|alt=screamingSun]]
+[[https://raw.githubusercontent.com/mpvoss/RickAndMortyWeatherTweets/master/examples/thorn.png|alt=thorn]]
 
 
 This project uses
@@ -15,4 +15,4 @@ This project uses
 Thank you to all these projects for their hard work so I could make a dumb RickAndMorty Weather Memebot
 
 
-[[https://raw.githubusercontent.com/mpvoss/RickAndMortyWeatherTweets/master/examples/celsius.png]]
+[[https://raw.githubusercontent.com/mpvoss/RickAndMortyWeatherTweets/master/examples/celsius.png|celsius]]
