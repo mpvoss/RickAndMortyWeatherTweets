@@ -1,7 +1,7 @@
-import WeatherToMemeUtil
+import meme_template_util
 from memegenerator import memegenerator
 
-things = WeatherToMemeUtil.test_driver()
+things = meme_template_util.test_driver()
 for meme_tuple in things:
 
     print(meme_tuple)
