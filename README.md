@@ -1,5 +1,7 @@
 Twitter weather updates...via Rick and Morty memes!
 
+Plenty of examples on the project Twitter page: https://twitter.com/WubadubWeather
+
 ![notCool](https://raw.githubusercontent.com/mpvoss/RickAndMortyWeatherTweets/master/examples/notCool.png)
 
 This project uses
